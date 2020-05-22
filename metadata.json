@@ -1,0 +1,12 @@
+{
+  "name": "maptilesITB",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "16",
+  "maxzoom": "21",
+  "scale": "1.000000",
+  "bounds": [107.60986907, -6.89326700, 107.61344423, -6.89009339],
+  "profile": "mercator"
+}
